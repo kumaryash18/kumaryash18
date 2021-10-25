@@ -13,7 +13,7 @@
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original-wordmark.svg" alt="TheAlgorithms Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MatLab Logo" width="50" height="50"/>
 
@@ -22,3 +22,11 @@
 ## &#x1f4c8; My GitHub Stats
 
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaryash18&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumaryash18&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumaryash18&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
