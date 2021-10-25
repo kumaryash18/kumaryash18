@@ -21,6 +21,8 @@
 
 ## &#x1f4c8; My GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=kumaryash18)
+
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaryash18&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kumaryash18&theme=oldie&row=1)](https://github.com/ryo-ma/github-profile-trophy)
