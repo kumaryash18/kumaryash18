@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kumar Yash!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kumarYash_18?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FkumarYash_18)
 
 - 🔭 I am currently doing Bachelors in Computer Science and Engineering.
 - 🌱 I am currently learning machine learning.
