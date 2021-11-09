@@ -29,4 +29,4 @@
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
-![snake gif](https://github.com/kumaryash18/kumaryash18/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kumaryash18/kumaryash18/blob/output/github-contribution-grid-snake.svg)
