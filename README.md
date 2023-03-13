@@ -19,10 +19,6 @@
 
 ---
 
-## &#x1f4c8; My GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumaryash18&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ## Watch my contribution graph get eaten by the snake 🐍
 
 ![snake gif](https://github.com/kumaryash18/kumaryash18/blob/output/github-contribution-grid-snake.svg)
