@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I attend all my university classes.
 
-<!-- ---
+---
 
 ## 🧰 Toolbox
 
@@ -21,4 +21,4 @@
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
-![snake gif](https://github.com/kumaryash18/kumaryash18/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/kumaryash18/kumaryash18/blob/output/github-contribution-grid-snake.svg)
