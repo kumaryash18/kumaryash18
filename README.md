@@ -11,9 +11,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I attend all my university classes.
 
-<!-- --- -->
+<!-- ---
 
-<!-- ## 🧰 Toolbox
+## 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original-wordmark.svg" alt="TheAlgorithms Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MatLab Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50" height="50"/>
 
