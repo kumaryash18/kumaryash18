@@ -3,13 +3,13 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/kumarYash_18)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kumar-yash-337a73178/)
 
-- 🔭 I am currently doing Bachelors in Computer Science and Engineering.
-- 🌱 I am currently learning Machine Learning.
+- 🔭 I have a Bachelors in Computer Science and Engineering.
+- 🌱 I am currently learning Generative AI.
 - 👯 I’m looking to collaborate on Python stuff.
-- 🤔 I’m looking for help with documentation.
-- 💬 Ask me about Clash of Clans.
+- 🤔 I’m looking for help with GPUs.
+- 💬 Ask me about anything.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I attend all my university classes.
+- ⚡ Fun fact: I know everything.
 
 ---
 
